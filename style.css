@@ -1,0 +1,18 @@
+h1{
+    background-color: blue;
+    color: blueviolet;
+}
+.ankit-mahto{
+    color:red;
+}
+#main{
+    color: chartreuse;
+}
+*{
+    text-align: center;
+    color: red !important;
+}
+h2[ draggable]
+{
+    color: aqua;
+}
